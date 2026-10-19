@@ -1,0 +1,13 @@
+{
+  "gatewaySerial": "GW001",
+  "devices": [
+    {
+      "deviceSerial": "ATS-1001",
+      "mac": "E6:E4:95:10:31:95"
+    },
+    {
+      "deviceSerial": "ATS-1002",
+      "mac": "AA:BB:CC:DD:EE:FF"
+    }
+  ]
+}
